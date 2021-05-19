@@ -1,3 +1,6 @@
+<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/Vinamra2009/">Vinamra</a></h2>
+<p>I'm currently studying at RNS institute of Technology, Bangalore. This is a collection of few of my projects undertaken.</p>
+
 <img alt="Aayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vinamra2009&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=0D1117" />
 <details> 
   <summary>💻 More Profile Stats</summary>
