@@ -1,5 +1,6 @@
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/vinamra-sulgante-636505194/">Vinamra</a></h2>
-<p>I'm currently studying at RNS institute of Technology, Bangalore. This is a collection of few of my projects undertaken.</p>
+<p>I'm currently studying at RNS institute of Technology, Bangalore. This is a collection of few of my <a href="http://bit.do/resVin">projects</a> undertaken.</p>
+
 
 - 📫 Reach me at **vsulgante2000@gmail.com**
 
