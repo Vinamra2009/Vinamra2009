@@ -11,5 +11,6 @@
   &emsp;<img alt="Vinamra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinamra2009&langs_count=6&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117" />
   <br/>
   <img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vinamra2009&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> 
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinamra2009&" alt="Vinamea2009" /></p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
