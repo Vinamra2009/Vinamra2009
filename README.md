@@ -14,6 +14,5 @@
   <br/>
   <img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vinamra2009&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> 
 </details>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esin&" alt="Vinamra2009" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esin&" alt="Vinamra2009" /></p>
-<img alt="Vinamra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=esin&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=0D1117" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinamra2009&" alt="Vinamra2009" /></p>
+
