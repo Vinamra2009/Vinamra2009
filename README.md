@@ -2,7 +2,7 @@
 <p>I'm currently pursuing Computer Science Engineering at Bangalore. This is a collection of few of my <a href="http://bit.do/resVin">projects</a> undertaken.</p>
 
 
-- 📫 Reach me at **<a href="http://bit.do/resVin">LinkedIn</a>**
+- 📫 Reach me via **<a href="http://bit.do/resVin">LinkedIn</a>**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vinamra2009&label=Profile%20views&color=0e75b6&style=flat" alt="Vinamra2009" /> </p>
 
