@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/vinamra-sulgante-636505194/">Vinamra</a></h2>
-<p>This would have been some random info about myself which can be skipped. This is a collection of few of my <a href="http://bit.do/resVin">projects</a> undertaken.</p>
+<p>This would have been some random info about myself which can be skipped. This is a collection of few of my <a href="http://bit.do/resVin">projects</a>.</p>
 
 
 - 📫 Reach me via **<a href="http://bit.do/resVin">LinkedIn</a>**
